@@ -47,7 +47,7 @@
     <a href="https://windlikeo.github.io/HQL.github.io/"><img alt="Author Page" src="https://img.shields.io/badge/Author Page-blue.svg"></a>
     <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"></a>
     <img src="https://img.shields.io/badge/python-≥3.8-blue?style=flat-square" alt="Python">
-    <a href="TODO_REPOSITORY_URL"><img alt="stars" src="https://img.shields.io/badge/Stars-TODO-lightgrey?style=social"></a>
+    <a href="https://github.com/iLearn-Lab/ICASSP25-MEDIAN"><img alt="stars" src="https://img.shields.io/github/stars/iLearn-Lab/ICASSP25-MEDIAN?style=social"></a>
   </p>
 
   <p>
