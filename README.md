@@ -403,6 +403,6 @@ This project is released under the terms of the [LICENSE](./LICENSE) file includ
 **If this project helps you, please leave a Star!**
 
 <!-- TODO_FOOTER_STAR_BADGE: Replace with the final repository star badge. -->
-[![GitHub stars](https://img.shields.io/github/stars/WindLikeo/MEDIAN?style=social)](https://github.com/WindLikeo/MEDIAN)
+[![GitHub stars](https://img.shields.io/github/stars/iLearn-Lab/ICASSP25-MEDIAN?style=social)](https://github.com/iLearn-Lab/ICASSP25-MEDIAN)
 
 </div>
