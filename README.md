@@ -281,8 +281,7 @@ Ecosystem & Other Works from our Team
       <span style="font-size: 0.9em;">
         <a href="https://lee-zixu.github.io/ConeSep.github.io/" target="_blank">Web</a> | 
         <a href="https://github.com/lee-zixu/ConeSep" target="_blank">Code</a> | 
-        <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a> -->
-      </span>
+        </span>
     </td>
      <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logo/airknow-logo.png" alt="Air-Know" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
@@ -290,8 +289,7 @@ Ecosystem & Other Works from our Team
       <span style="font-size: 0.9em;">
         <a href="https://zhihfu.github.io/Air-Know.github.io/" target="_blank">Web</a> | 
         <a href="https://github.com/zhihfu/Air-Know" target="_blank">Code</a> | 
-        <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a> -->
-      </span>
+        </span>
     </td>
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logo/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
@@ -345,11 +343,19 @@ Ecosystem & Other Works from our Team
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logo/encoder-logo.png" alt="ENCODER" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ENCODER (AAAI'25)</b><br>
-<span style="font-size: 0.9em;">
-<a href="https://sdu-l.github.io/ENCODER.github.io/" target="_blank">Web</a> |
-<a href="https://github.com/Lee-zixu/ENCODER" target="_blank">Code</a> |
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32541" target="_blank">Paper</a>
-</span>
+      <span style="font-size: 0.9em;">
+        <a href="https://sdu-l.github.io/ENCODER.github.io/" target="_blank">Web</a> |
+        <a href="https://github.com/Lee-zixu/ENCODER" target="_blank">Code</a> |
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32541" target="_blank">Paper</a>
+      </span>
+    </td>
+    <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
+      <img src="/assets/logo/pair-logo.png" alt="PAIR" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <b>PAIR (ICASSP'25)</b><br>
+      <span style="font-size: 0.9em;">
+        <a href="https://zhihfu.github.io/PAIR.github.io/" target="_blank">Web</a> |
+        <a href="https://github.com/ZhihFu/PAIR" target="_blank">Code</a>
+        </span>
     </td>
   </tr>
 </table>
