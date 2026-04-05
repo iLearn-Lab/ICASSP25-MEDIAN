@@ -272,7 +272,6 @@ This codebase is heavily inspired by and built upon [CLIP4Cir](https://github.co
 ## 🔗 Related Projects
 
 Ecosystem & Other Works from our Team
-
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
@@ -354,8 +353,9 @@ Ecosystem & Other Works from our Team
       <b>PAIR (ICASSP'25)</b><br>
       <span style="font-size: 0.9em;">
         <a href="https://zhihfu.github.io/PAIR.github.io/" target="_blank">Web</a> |
-        <a href="https://github.com/ZhihFu/PAIR" target="_blank">Code</a>
-        </span>
+        <a href="https://github.com/ZhihFu/PAIR" target="_blank">Code</a> |
+        <a href="https://ieeexplore.ieee.org/document/10888153" target="_blank">Paper</a>
+      </span>
     </td>
   </tr>
 </table>
